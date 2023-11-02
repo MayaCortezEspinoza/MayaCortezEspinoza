@@ -1,5 +1,8 @@
 ### Hi there 👋
+My name is Maya Cortez Espinoza and I am currently a PhD researcher in the Department of German Linguistics at Graz University in Austria.
+On my profile, you can find a repository with the software for a Linguistic study we conducted in the Project "The erotetic and the aesthetic". 
 
+I am very much looking forward to new projects and collaborations. 
 <!--
 **MayaCortezEspinoza/MayaCortezEspinoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
